@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hola, Soy Victor Acosta 👋
 
+________________________________________________________________________________________________________________
 
-**VictorAcosta96/VictorAcosta96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniero de sistemas egresado de las Unidades Tecnologicas de Santander, Me apaciona el desarrollo web en especial el backend, Mi proposito es seguir creciendo como desarrollador Backend y estar en constante aprendizaje sobre las nuevas tecnologias. 
 
-Here are some ideas to get you started:
+________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Lenguajes y Herramientas ⚙
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+### Backend
+![Laravel](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+## Database
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+## Deploy
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 

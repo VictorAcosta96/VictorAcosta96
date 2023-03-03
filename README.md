@@ -17,12 +17,20 @@ ________________________________________________________________________________
 ![Laravel](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## Database
+### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-## Deploy
+### Deploy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## Comandos de terminal
 
+| comando | Description |
+| ----------- | ----------- |
+| ls | Lista los archivos de la carpeta actual, o de la ruta dada |
+| pwd | Nos muestra la ruta absoluta del directorio actual |
+| mkdir | Crea una nueva carpeta con el nombre que le indiquemos |
+|cp -r| Nos permite copiar una carpeta dada una ruta inicial y una ruta final.|
+| rm -r| Nos permite eliminar una carpeta dada una ruta |

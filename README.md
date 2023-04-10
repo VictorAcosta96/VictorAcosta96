@@ -2,7 +2,7 @@
 
 ________________________________________________________________________________________________________________
 
-Soy ingeniero de sistemas egresado de las Unidades Tecnologicas de Santander, Me apaciona el desarrollo web en especial el backend, Mi proposito es seguir creciendo como desarrollador Backend y estar en constante aprendizaje sobre las nuevas tecnologias. 
+Soy ingeniero de sistemas egresado de las Unidades Tecnologicas de Santander, Me apaciona el desarrollo web en especial el frontend, Mi proposito es seguir creciendo como desarrollador Backend y estar en constante aprendizaje sobre las nuevas tecnologias. 
 
 ________________________________________________________________________________________________________________
 
